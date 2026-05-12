@@ -57,6 +57,7 @@ class MainActivity : AppCompatActivity() {
     }
 }
 ```
+<p>
 Вот код в acivity_main.xml:
 ```kotlin
 <?xml version="1.0" encoding="utf-8"?>
