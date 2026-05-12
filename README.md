@@ -9,7 +9,7 @@
 У меня эмулятор не работает(((
 <p>
 Вот код в MainActivity.kt:
-``` kotlin
+```kt
 package com.example.counterapp
 
 import android.os.Bundle
@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
 ```
 <p>
 Вот код в acivity_main.xml:
-``` kotlin
+```kt
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
