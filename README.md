@@ -1,14 +1,15 @@
-Беланов Ростислав
-<p>
-Вариант 2
-<p>
-Задание:
+# Экзамен
+
+## Беланов Ростислав
+## Вариант 2
+
+### Вот мой вариант
 Создайте экран с текстом-счётчиком (начальное значение 0) и двумя кнопками: «+» и «−». 
 При нажатии на «+» значение увеличивается на 1, при нажатии на «−» — уменьшается на 1. Минимальное значение — 0 (нельзя уйти в минус).
 <p>
 У меня эмулятор не работает(((
 <p>
-Вот код в MainActivity.kt:
+### MainActivity.kt:
 ```kt
 package com.example.counterapp
 
@@ -58,7 +59,7 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 <p>
-Вот код в acivity_main.xml:
+### acivity_main.xml:
 ```kt
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
