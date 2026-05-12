@@ -8,9 +8,8 @@
 При нажатии на «+» значение увеличивается на 1, при нажатии на «−» — уменьшается на 1. Минимальное значение — 0 (нельзя уйти в минус).
 <p>
 У меня эмулятор не работает(((
-<p>
 ### MainActivity.kt:
-```kt
+```kotlin
 package com.example.counterapp
 
 import android.os.Bundle
@@ -58,9 +57,8 @@ class MainActivity : AppCompatActivity() {
     }
 }
 ```
-<p>
 ### acivity_main.xml:
-```kt
+```kotlin
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
